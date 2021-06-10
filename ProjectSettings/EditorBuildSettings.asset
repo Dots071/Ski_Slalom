@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 4da3313e52582454eaed6a00640cc861
+  - enabled: 1
+    path: Assets/Scenes/MySkiGame.unity
+    guid: 1a2449a645f9ee0459e3578e1a0fbafe
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 7a49fc885c6315a4ebbb2b60751d24af
+  m_configObjects: {}
